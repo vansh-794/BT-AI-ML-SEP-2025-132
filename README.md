@@ -53,4 +53,11 @@ This assignment was designed to help understand the **end-to-end workflow of a d
 ---
 
 ## 📂 Project Structure  
+┣ 📄 train.csv # Training dataset
+┣ 📄 test.csv # Test dataset (for Kaggle submission)
+┣ 📄 titanic_notebook.ipynb # Main Jupyter Notebook with code & analysis
+┣ 📄 titanic_script.py # Python script version (optional)
+┣ 📄 submission.csv # Example Kaggle submission file
+┣ 📄 requirements.txt # Dependencies
+┗ 📄 README.md # Project documentation
 
